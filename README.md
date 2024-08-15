@@ -32,7 +32,7 @@ Please note that this website is for educational purposes only and is intended t
 
 ## Screenshots
 
-![Website Screenshot]([https://github.com/8uraj/GoFLix/blob/main/public/Screenshot%20(7).png])
+![Website Screenshot](https://github.com/8uraj/GoFLix/blob/main/public/Screenshot%20(7).png)
 ![Website Screenshot](https://imgur.com/UgzriH0.png)
 ![Website Screenshot](https://imgur.com/BTflCoT.png)
 
