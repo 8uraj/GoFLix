@@ -1,8 +1,8 @@
 import React, { useState } from 'react'
-import './Login.css'
 import logo from '../../assets/logo.png'
-import { login, signup } from '../../firebase'
 import netflix_spinner from '../../assets/netflix_spinner.gif'
+import { login, signup } from '../../firebase'
+import './Login.css'
 
 const Login = () => {
 
@@ -47,7 +47,7 @@ const Login = () => {
         </form>
         <div className="form-switch">
           {signState==="Sign In"?
-          <p>New to Netflix? <span onClick={()=>{setSignState("Sign Up")}}>Sign Up Now</span></p>
+          <p>New to GoFlix? <span onClick={()=>{setSignState("Sign Up")}}>Sign Up Now</span></p>
           :<p>Already have account? <span onClick={()=>{setSignState("Sign In")}}>Sign In Now</span></p>
         }
 
