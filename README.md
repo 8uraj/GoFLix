@@ -16,10 +16,10 @@ Please note that this website is for educational purposes only and is intended t
 ## Installation
 
 1. Clone the repository
-2. Install Node.js
+2. Install Node.js : ../ npm install
 3. Install the necessary node modules
-4. Start the server
-5. Add your TMDB API token in the api.js file
+4. Start the server : ../ npm run dev
+5. Add your TMDB API token and Firebase code in the config.js file
 6. Done!
 
 ## Libraries/Technologies used
