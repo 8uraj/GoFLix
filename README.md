@@ -1,6 +1,6 @@
 # GoFlix using TMDB API
 
-Welcome to this repository containing a fully working Netflix clone built using pure HTML, CSS, and JavaScript with a Node.js server, utilizing data from the TMDB API.
+Welcome to this repository containing a fully working Netflix clone built using pure `HTML`, `CSS`, and `JavaScript` with a `Node.js` server, utilizing data from the `TMDB API` and `Firebase`.
 
 Please note that this website is for educational purposes only and is intended to be used as a portfolio piece. It is not intended for commercial or monetary gain and is not affiliated with Netflix Inc.
 
@@ -19,7 +19,7 @@ Please note that this website is for educational purposes only and is intended t
 2. Install Node.js : `npm install`
 3. Install the necessary node modules
 4. Start the server : `npm run dev`
-5. Add your TMDB API token and Firebase code in the config.js file
+5. Add your TMDB API token and Firebase code in the `config.js` file
 6. Done!
 
 ## Libraries/Technologies used
