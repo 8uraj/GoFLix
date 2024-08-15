@@ -15,7 +15,7 @@ Please note that this website is for educational purposes only and is intended t
 
 ## Installation
 
-1. Clone the repository
+1. Clone the repository :`git clone https://github.com/8uraj/GoFLix.git`
 2. Install Node.js : `npm install`
 3. Install the necessary node modules
 4. Start the server : `npm run dev`
