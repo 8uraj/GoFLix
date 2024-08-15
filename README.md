@@ -29,6 +29,7 @@ Please note that this website is for educational purposes only and is intended t
 - JavaScript
 - TMDB API
 - Node.js
+- Firebase
 
 ## Screenshots
 
